@@ -1,6 +1,7 @@
 # Simple Interactive Points Effect
 
 
+
 An interactive transparency background effect that makes images visible when specific points are hovered, showing some content once clicked.
 
 [Article on Codrops](http://tympanus.net/codrops/?p=27459)
